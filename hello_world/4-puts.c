@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/*
+/**
  * prints: "Programming is like ...
  */
 int main(void)
