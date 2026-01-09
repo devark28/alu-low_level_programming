@@ -1,6 +1,6 @@
-//
-// Created by pc on 1/9/26.
-//
+/*
+ * Created by pc on 1/9/26.
+ */
 #include <stdio.h>
 
 int main() {
