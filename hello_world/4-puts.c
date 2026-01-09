@@ -1,7 +1,9 @@
 #include <stdio.h>
 
 /**
- * prints: "Programming is like ...
+ * main - prints: "Programming is like ...
+ *
+ * Return: 0
  */
 int main(void)
 {
