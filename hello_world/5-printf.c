@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/*
+/**
  * main - prints: with proper grammar, but ...
  *
  * Return: 0
