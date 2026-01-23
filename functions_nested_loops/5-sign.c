@@ -2,7 +2,7 @@
 
 /**
  * print_sign - checks 1 if it's positive or else -1 or 0
- * @c: the number to test
+ * @n: the number to test
  * Return: int
  */
 int print_sign(int n)
