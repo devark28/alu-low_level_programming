@@ -4,7 +4,6 @@
  * times_table - function to print the 9 times tables
  * Return: void
  */
-
 void times_table(void)
 {
 	int i;
