@@ -7,7 +7,8 @@
 int main(void)
 {
 	const char str[9] = "_putchar\n";
-	for (int i = 0; i < 9; i++) {
+	int i;
+	for (i = 0; i < 9; i++) {
 		_putchar(str[i]);
 	}
 	return (0);
