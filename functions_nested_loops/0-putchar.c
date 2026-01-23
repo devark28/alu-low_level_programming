@@ -4,7 +4,8 @@
  * main - prints _putchar
  * Return: 0
  */
-int main(void) {
+int main(void)
+{
 	const char str[9] = "_putchar\n";
 	int i;
 
