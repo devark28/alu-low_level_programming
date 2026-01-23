@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "main.h"
 
 /**
  * main - prints _putchar
@@ -6,6 +6,9 @@
  */
 int main(void)
 {
-	puts("_putchar");
+	const char str[9] = "_putchar\n";
+	for (int i = 0; i < 9; i++) {
+		_putchar(str[i]);
+	}
 	return (0);
 }
