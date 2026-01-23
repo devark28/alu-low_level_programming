@@ -7,7 +7,8 @@
  */
 int print_last_digit(int n)
 {
-	int last = n % 10;
+	const int last = n % 10;
+
 	_putchar((last < 0 ? last * -1 : last) + '0');
 	return (last < 0 ? last * -1 : last);
 }
