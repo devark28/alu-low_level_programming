@@ -15,6 +15,11 @@ int find_sqrt(int n, int g)
 	return (find_sqrt(n, g + 1));
 }
 
+/**
+ * _sqrt_recursion - returns square root of a number
+ * @n: a number
+ * Return: return square root
+ */
 int _sqrt_recursion(int n)
 {
 	if (n < 0)
